@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Studytube",
+    "company_url": "https://studytube.com",
+    "work_period": "July 2022 - Current",
+    "position": "Senior backend developer",
+    "description": "Contributed to a B2B learning platform with LMS and LXP components. Developed and maintained integrations with clients HR systems.Automated migration processes to enhance efficiency and reduce manual effort."
+  },
+  {
+    "company": "3commas",
+    "company_url": "https://3commas.io",
+    "work_period": "March 2022 – June 2022",
+    "position": "Senior backend developer",
+    "description": "Supported the public API for an automated crypto trading bots marketplace. Ensured robust and secure API integration for third-party applications."
+  },
+  {
+    "company": "Talenttech",
+    "company_url": "",
+    "work_period": "2021 – 2022",
+    "position": "Team Lead, Surveys Team",
+    "description": "Led a team of two backend engineers in the HCM department, focusing on HR process automation tools. Developed a survey constructor, custom survey analytics, and premade surveys such as engagement, well-being (burnout), 360 assessment, and CSI surveys. Conducted interviews with approximately 100 developers annually, extending offers to about 20 candidates."
+  },
+  {
+    "company": "Rocketbank",
+    "company_url": "",
+    "work_period": "2017 – 2021",
+    "position": "Middle developer, senior developer, team lead",
+    "description": "Played a key role in developing the API for the mobile banking application and the core banking system. Worked on critical features like account closures, deposit lifecycle management, and interest accrual on balances. Contributed to architectural design and system scalability."
+  },
+  {
+    "company": "Kinderly",
+    "company_url": "",
+    "work_period": "2015-2017",
+    "position": "Backend developer",
+    "description": "Developed an admin panel tailored for SEO specialists and optimized courier management."
+  },
+  {
+    "company": "Planado",
+    "company_url": "",
+    "work_period": "2015",
+    "position": "Backend developer",
+    "description": "Created a webhook system for API users in a field worker management platform."
+  }
+]
