@@ -19,7 +19,7 @@ export default function Sidebar() {
       <p className="pt-16 text-lg">
         Hi, my name Sergey Pustovalov.
         <br />
-        I am a backend software engineer based in Amsterdam.
+        I am a backend software engineer currently based in Amsterdam.
         <br />
         I love to make great things and solve complex problems.
         <br />
