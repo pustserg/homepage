@@ -21,7 +21,7 @@ export default async function MainContent() {
         <ul className="list-none">
           <li>Programming Languages & Frameworks: Ruby, Elixir, Golang, Ruby on Rails, Grape</li>
           <li>Background Processing: Sidekiq, Sneakers</li>
-          <li>Databases: PostgreSQL, Mysql, MongoDB</li>
+          <li>Databases: PostgreSQL, Mysql, MongoDB, ElasticSearch</li>
           <li>Message Brokers: Kafka, RabbitMQ, AWS SQS</li>
           <li>Data Serialization: Protobuf, gRPC</li>
           <li>DevOps: Docker, AWS, Ansible</li>
